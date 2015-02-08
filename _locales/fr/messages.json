@@ -1,0 +1,22 @@
+{
+	"extName": {
+		"message": "Stay Signed Out Bonjour!",
+		"description": "Extension name"
+	},
+	"extDesc": {
+		"message": "Automagically uncheck the 'Stay signed in' checkbox on the Google Accounts page",
+		"description": "Extension description"
+	},
+	"popupDesc": {
+		"message": "This extension watches for the Google Account Sign On page and automatically unchecks the \"Stay signed in\" checkbox.",
+		"description": "The description in the popup box."
+	},
+	"popupTagline": {
+		"message": "We think you're really sweet Google. We're just not ready for that kind of commitment.",
+		"description": "The fun little tagline in the popup box"
+	},
+	"hoverTitle": {
+		"message": "Google Account Sign In page detected!",
+		"description": "Set the message the appears when the omnibox icon is hovered over"
+	}
+}
