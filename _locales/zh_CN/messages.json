@@ -1,0 +1,22 @@
+{
+	"extName": {
+		"message": "留下登出",
+		"description": "Extension name"
+	},
+	"extDesc": {
+		"message": "自动将取消选中该复选框的谷歌帐户页面'留在签署'。",
+		"description": "Extension description"
+	},
+	"popupDesc": {
+		"message": "这个扩展手表的谷歌帐户登录页面，并自动取消选中复选框'留在签署'。",
+		"description": "The description in the popup box."
+	},
+	"popupTagline": {
+		"message": "我们觉得你真的很甜蜜的谷歌。我们只是没有准备好样的承诺。",
+		"description": "The fun little tagline in the popup box"
+	},
+	"hoverTitle": {
+		"message": "谷歌帐户登录页面发现！",
+		"description": "Set the message the appears when the omnibox icon is hovered over"
+	}
+}

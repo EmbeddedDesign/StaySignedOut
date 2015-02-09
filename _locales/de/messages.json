@@ -1,0 +1,26 @@
+{
+	"extName": {
+		"message": "Stay Out Signiert",
+		"description": "Extension name"
+	},
+	"shortName": {
+		"message": "sso",
+		"description": "Extension short name"
+	},
+	"extDesc": {
+		"message": "Automatisch deaktivieren Sie das Kontrollkästchen auf der Seite von Google-Konten 'Angemeldet bleiben'.",
+		"description": "Extension description"
+	},
+	"popupDesc": {
+		"message": "Diese Erweiterung Uhren für den Google-Konto Anmeldungsseite und deaktiviert das Kontrollkästchen \"Angemeldet bleiben\" automatisch.",
+		"description": "The description in the popup box."
+	},
+	"popupTagline": {
+		"message": "Wir denken, dass Sie wirklich süß Google. Wir sind einfach nicht bereit für diese Art von Verbindlichkeit.",
+		"description": "The fun little tagline in the popup box"
+	},
+	"hoverTitle": {
+		"message": "Google-Konto Anmeldeseite erkannt!",
+		"description": "Set the message the appears when the omnibox icon is hovered over"
+	}
+}

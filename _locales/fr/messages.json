@@ -8,7 +8,7 @@
 		"description": "Extension short name"
 	},
 	"extDesc": {
-		"message": "Automagiquement décochez la \"Rester connecté\" case sur la page Comptes Google",
+		"message": "Automatiquement décochez la \"Rester connecté\" case sur la page Comptes Google",
 		"description": "Extension description"
 	},
 	"popupDesc": {
