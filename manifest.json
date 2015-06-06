@@ -1,7 +1,7 @@
 {
 	"name": "__MSG_extName__",
 	"short_name": "__MSG_shortName__",
-	"version": "0.0.7",
+	"version": "0.0.8",
 	"author": "operator",
 	"default_locale": "en",
 	"description": "__MSG_extDesc__",
@@ -26,7 +26,14 @@
 	"content_scripts": [
 		{
 			"matches": ["*://accounts.google.com/*"],
+			"run_at": "document_end",
 			"js": ["uncheck.js"]
+		},
+		{
+			"matches":        ["http://*/*", "https://*/*"],
+			"include_globs":  ["http://www.google.*/*", "https://www.google.*/*"],
+			"run_at": "document_end",
+			"js": ["hide_popup.js"]
 		},
 		{
 			"matches": ["*://staysignedout.com/*"],
